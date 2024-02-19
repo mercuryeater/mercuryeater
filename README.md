@@ -11,11 +11,11 @@
 <div align="center">
    🔭 I’m currently working on a **lost/seen pet app**
    
-   🌱 I’m currently learning **Python, Machine Learning, React Native**
+   🌱 I’m currently learning **DSA, React Native**
   
-   💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/mercuryeater/mercuryeater/issues)**
+   💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/mercuryeater/mercuryeater/issues)**
   
-   ⚡ Fun fact: **Grace Hopper coined the term "bug" after finding a moth causing a computer glitch in 1947**
+   ⚡ Fun fact: **I survived a fish binge and a mercury spill. That’s the origin story of my username.**
 </div>
 
  <div align="center"> 
@@ -57,7 +57,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!👀">
 </h3>
 
 
